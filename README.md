@@ -1,1 +1,240 @@
-# cumminsmillchurch.github.io
+<!DOCTYPE HTML>
+<html class="no-js">
+<head>
+<!-- Basic Page Needs
+  ================================================== -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Cummins Mill Baptist Church</title>
+<link rel=“shortcut icon” href=“/favicon.ico” type=“image/x-icon”>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<br /><br />
+<!-- Mobile Specific Metas
+  ================================================== -->
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<!-- CSS
+  ================================================== -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="plugins/mediaelement/mediaelementplayer.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="plugins/prettyphoto/css/prettyPhoto.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="css/ie8.css" media="screen" /><![endif]-->
+<!-- Color Style -->
+<link href="colors/color1.css" rel="stylesheet" type="text/css"> 
+<link href="css/custom.css" rel="stylesheet" type="text/css">
+<!-- SCRIPTS
+  ================================================== -->
+<script src="js/modernizr.js"></script><!-- Modernizr -->
+</head>
+<body>
+<!--[if lt IE 7]>
+	<p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+<![endif]-->
+<div class="body"> 
+  <!-- Start Site Header -->
+  <!-- End Site Header --> 
+    <!-- Start Hero Slider -->
+  <div class="hero-slider flexslider clearfix" data-autoplay="yes" data-pagination="yes" data-arrows="yes" data-style="fade" data-pause="yes">
+    <ul class="slides">
+     <li class=" parallax" style="background-image:url(images/banner_3000x500.jpg);"></li>
+      
+    </ul>
+  </div>
+  <!-- End Hero Slider --> 
+  
+  <!-- Start Content -->
+  <div class="main" role="main">
+    <div id="content" class="content full">
+      <div class="container">
+        <div class="row"> 
+          <!-- Start Featured Blocks -->
+          <div class="featured-blocks clearfix">
+            <div class="col-md-4 col-sm-4 featured-block"> <a href="sermons.html" class="img-thumbnail"> <img src="images/sermon.jpg" alt="sermons"> <strong>Sermons</strong> <span class="more">read more</span> </a> </div>
+            <div class="col-md-4 col-sm-4 featured-block"> <a href="sschool.html" class="img-thumbnail"> <img src="images/sundayschool-douglas.jpg" alt="bible study"> <strong>Bible Study</strong> <span class="more">read more</span> </a> </div>
+			<div class="col-md-4 col-sm-4 featured-block"> <a href="contact.html" class="img-thumbnail"> <img src="images/visit.jpg" alt="visit"> <strong>Contact / Visit</strong> <span class="more">read more</span> </a> </div>
+			<div class="col-md-4 col-sm-4 featured-block">  </div>
+			<div class="col-md-4 col-sm-4 featured-block"> <a href="testimonies.html" class="img-thumbnail"> <img src="images/testimonies.jpg" alt="visit"> <strong>Testimonies</strong> <span class="more">read more</span> </a> </div>
+			
+		  </div>
+          <!-- End Featured Blocks --> 
+        </div>
+        <div class="row">
+          <div class="col-md-8 col-sm-6"> 
+            <!-- Events Listing -->
+            <div class="listing events-listing">
+              <header class="listing-header">
+                <h3>Upcoming Events</h3>
+              </header>
+
+
+			   
+			  
+			  
+			<section class="listing-cont">
+                <ul>
+<!-- Update: Add any announcements and events below; create another "li" group for each	-->			
+                  <li class="item event-item">
+                    <div class="event-date"> <span class="date">28</span> <span class="month">Nov</span> </div>
+                  <div class="event-detail">
+                       <h4><a href="events-calendar.html">Christmas play practice</a></h4>
+                      <span class="event-dayntime meta-data">Monday | 6:30 pm - 7:30 pm<br /></span> </div>
+                    <div class="to-event-url">
+                      <div><a href="events-calendar.html" class="btn btn-default btn-sm">Read More</a></div>
+                    </div>
+                  </li>
+				  
+				  
+				  
+                 </ul>
+              </section>
+			  
+			  
+			  
+            </div>
+            <div class="spacer-30"></div>
+            <!-- Latest News -->
+            <div class="listing post-listing">
+              <header class="listing-header">
+                <h3>Latest Announcements</h3>
+              </header>
+			  
+			  
+
+
+			  <section class="listing-cont">
+                <ul>
+                    <li class="item post">
+                    <div class="row">
+                      <div class="col-md-4"> <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__sXHdiFURFJBMUtJNUpNRFU0VEtYR0UzSUxMVDFYWS4u" class="media-box"> <img src="images/saved_button.png" alt="" class="img-thumbnail"> </a></div>
+                      <div class="col-md-8">
+                        <div class="post-title">
+                          <h2><a href="blog-post.html">Sick or in Need? Let us know!</a></h2>
+                          <span class="meta-data"><i class="fa fa-calendar"></i> on 10th Apr, 2022</span></div>
+                        <p>If you become ill or have any other needs, please <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__sXHdiFUQk8wSzZWUkdYODRFT0xaQzBERjZBQUQxSy4u">click here</a> to let us know. We are always ready to assist our members, our brothers and sisters in Christ, and our community!</p>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </section>
+			  
+			  
+			 <section class="listing-cont">
+                <ul>
+                    <li class="item post">
+                    <div class="row">
+                      <div class="col-md-4"> <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__sXHdiFURFJBMUtJNUpNRFU0VEtYR0UzSUxMVDFYWS4u" class="media-box"> <img src="images/elements colors-15.jpg" alt="" class="img-thumbnail"> </a></div>
+                      <div class="col-md-8">
+                        <div class="post-title">
+                          <h2><a href="blog-post.html">Suggestions for 2022</a></h2>
+                          <span class="meta-data"><i class="fa fa-calendar"></i> on 02nd Apr, 2022</span></div>
+                        <p><u><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__sXHdiFURFJBMUtJNUpNRFU0VEtYR0UzSUxMVDFYWS4u">Submit a suggestion</u></a> for activities you would like the church to hold in 2022.</p>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </section>
+            </div>
+          </div>
+          <!-- Start Sidebar -->
+          <div class="col-md-4 col-sm-6"> 
+            <!-- Latest Sermons -->
+            <div class="listing sermons-listing">
+              <header class="listing-header">
+                <h3>Next Sunday School Lesson</h3>
+              </header>
+              <section class="listing-cont">
+                <ul>
+<!-- Update: Enter next Sunday School lesson information below -->
+                  <li class="item sermon featured-sermon"> <span class="date">December 4, 2022<br />
+				  Bro. Douglas Gibson</span>
+                    <h4>The Fear of God<br />
+					<a href="https://www.biblegateway.com/passage/?search=Psalm%2033&version=KJV">Psalm 33:6-15, 18-22</a></h4>
+                    <div class="featured-sermon-video">
+<!-- Update: Change image here -->
+                      <img src=images/sundayschool-douglas.jpg>
+					  <p><br /></p>
+                    </div>
+                    <p>&nbsp</p>
+                    
+                  </li>
+                  
+                </ul>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Start Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row"> 
+        <!-- Start Footer Widgets -->
+        <div class="col-md-4 col-sm-4 widget footer-widget">
+          <h4 class="footer-widget-title">About our Church</h4>
+          <img src="images/logo.png" alt="Logo">
+          <div class="spacer-20"></div>
+          <p>We are a small, family-oriented, Bible focused church. If you are looking for a church home, come by and check us out. Who knows? You may stay.</p>
+        </div>
+        <div class="col-md-4 col-sm-4 widget footer-widget">
+          <h4 class="footer-widget-title">&nbsp</h4>
+          <ul>
+            
+          </ul>
+        </div>
+        <div class="col-md-4 col-sm-4 widget footer-widget">
+          <h4 class="footer-widget-title">Blogroll</h4>
+          <ul>
+            <li><a href="index.html">Church Home</a></li>
+            <li><a href="events-calendar.html">All Events</a></li>
+            <li><a href="sermons.html">Sermons</a></li>
+			<li><a href="sschool.html">Bible Study</a></li>
+			<li><a href="testimonies.html">Testimonies</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <footer class="site-footer-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="copyrights-col-left col-md-6 col-sm-6">
+          <p>&copy; 2014 NativeChurch. All Rights Reserved</p>
+        </div>
+        <div class="copyrights-col-right col-md-6 col-sm-6">
+          <div class="social-icons"> <a href="https://www.facebook.com/Cummins-Mill-Baptist-Church-150800661647586" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://www.youtube.com/channel/UCS8s9HUvH9u8BU7vZAFO0zA" target="_blank"><i class="fa fa-youtube"></i></a> </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- End Footer --> 
+  <a id="back-to-top"><i class="fa fa-angle-double-up"></i></a> </div>
+<script src="js/jquery-2.0.0.min.js"></script> <!-- Jquery Library Call --> 
+<script src="plugins/prettyphoto/js/prettyphoto.js"></script> <!-- PrettyPhoto Plugin --> 
+<script src="js/helper-plugins.js"></script> <!-- Plugins --> 
+<script src="js/bootstrap.js"></script> <!-- UI --> 
+<script src="js/waypoints.js"></script> <!-- Waypoints --> 
+<script src="plugins/mediaelement/mediaelement-and-player.min.js"></script> <!-- MediaElements --> 
+<script src="js/init.js"></script> <!-- All Scripts --> 
+<script src="plugins/flexslider/js/jquery.flexslider.js"></script> <!-- FlexSlider --> 
+<script src="plugins/countdown/js/jquery.countdown.min.js"></script> <!-- Jquery Timer -->
+</body>
+</html>
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
